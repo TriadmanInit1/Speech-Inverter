@@ -1,0 +1,6 @@
+{
+    "patterns": {
+        "Are you": "I'm"
+    },
+    "default_response": "I don't understand that question."
+}
